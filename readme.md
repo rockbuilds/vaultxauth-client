@@ -10,7 +10,7 @@ This repository serves as the official public distribution channel for VaultX Au
 
 | Version | Platform | Installer | Size | SHA-256 Checksum |
 |:---|:---|:---|:---|:---|
-| **v1.0.0-beta** | Windows 10/11 | [Download Installer (Direct)]([https://github.com](https://github.com/rockbuilds/vaultxauth-client/releases/download/v1.0.0-beta/VaultX.Auth.Setup.1.0.0.exe) | 117 MB | `182FBE442B417491B39E6199AD2AF26EF1A58D11D3FC82CE5A186DCC41FCF401` |
+| **v1.0.0-beta** | Windows 10/11 | [Download Installer (Direct)](https://github.com/rockbuilds/vaultxauth-client/releases/download/v1.0.0-beta/VaultX.Auth.Setup.1.0.0.exe) | 117 MB | `182FBE442B417491B39E6199AD2AF26EF1A58D11D3FC82CE5A186DCC41FCF401` |
 
 > [!IMPORTANT]
 > Always verify that the SHA-256 checksum of your downloaded installer matches the checksum above before running it.
