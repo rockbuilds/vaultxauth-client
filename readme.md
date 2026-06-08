@@ -10,7 +10,7 @@ This repository serves as the official public distribution channel for VaultX Au
 
 | Version | Platform | Installer | Size | SHA-256 Checksum |
 |:---|:---|:---|:---|:---|
-| **v1.0.0-beta** | Windows 10/11 | [Download Installer (Direct)]([https://github.com](https://github.com/rockbuilds/vaultxauth-client/releases/download/v1.0.0-beta/VaultX.Auth.Setup.1.0.0.exe)) | 117 MB | `cd2aa7abe7bc624cfedd30c3c5c0bc14f66ea154e0092015c17b6557905c6036` |
+| **v1.0.0-beta** | Windows 10/11 | [Download Installer (Direct)]([https://github.com](https://github.com/rockbuilds/vaultxauth-client/releases/download/v1.0.0-beta/VaultX.Auth.Setup.1.0.0.exe)) | 117 MB | `182FBE442B417491B39E6199AD2AF26EF1A58D11D3FC82CE5A186DCC41FCF401` |
 
 > [!IMPORTANT]
 > Always verify that the SHA-256 checksum of your downloaded installer matches the checksum above before running it.
@@ -26,7 +26,7 @@ To guarantee file integrity and ensure the installer hasn't been modified or tam
 cd "$env:USERPROFILE\Downloads"
 
 # Compare the hash
-(Get-FileHash -Algorithm SHA256 "VaultX Auth Setup 1.0.0.exe").Hash -eq "1d351797c1a5e44df451e5b002a16809a2833fecae5ec6d53e2f152f967b0dc9"
+(Get-FileHash -Algorithm SHA256 "VaultX Auth Setup 1.0.0.exe").Hash -eq "182FBE442B417491B39E6199AD2AF26EF1A58D11D3FC82CE5A186DCC41FCF401"
 ```
 *If this command returns `True`, your download is safe and authentic.*
 
